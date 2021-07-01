@@ -22,7 +22,7 @@ function App() {
                     Free
                   </h5>
                   <h6 class="card-price text-center">
-                    $0<span class="period">/permonth</span>
+                    $0<span class="period">/per month</span>
                   </h6>
 
                   <hr />
