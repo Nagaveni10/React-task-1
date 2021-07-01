@@ -19,7 +19,7 @@ function App() {
               <div className="card bg-white p-5 rounded-lg shadow">
                 <div className="card-body">
                   <h5 className="card-title text-uppercase text-center text-muted">
-                    Free
+                    Freeeeeee
                   </h5>
                   <h6 class="card-price text-center">
                     $0<span class="period">/month</span>
